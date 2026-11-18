@@ -4,6 +4,7 @@ import { useRoute } from 'vue-router'
 import { signs } from '../data/signs'
 import { hasMedia, mediaUrl } from '../composables/useSignMedia'
 import { shuffle } from '../composables/useShuffle'
+import { firstLetter } from '../composables/useLetters'
 import SignMedia from '../components/features/SignMedia.vue'
 
 const QUESTIONS_PER_QUIZ = 10
@@ -12,7 +13,10 @@ const CHOICES = 4
 const route = useRoute()
 const categoryId = String(route.params.cat)
 
-const inCategory = signs.filter((sign) => categoryId === 'all' || sign.category === categoryId)
+const letter = typeof route.query.letter === 'string' ? route.query.letter.toUpperCase() : null
+const inCategory = signs.filter(
+  (sign) => (categoryId === 'all' || sign.category === categoryId) && (!letter || firstLetter(sign.word) === letter),
+)
 const questions = shuffle(inCategory.filter((sign) => hasMedia(sign.id))).slice(0, QUESTIONS_PER_QUIZ)
 
 const index = ref(0)

@@ -40,3 +40,6 @@ button:disabled { opacity: 1; cursor: default; }
 }
 .banner span { flex: 1; }
 .banner button { flex: none; background: var(--bg); color: var(--text); padding: .5rem 1rem; }
+
+.letters { display: flex; flex-wrap: wrap; gap: .4rem; }
+.letters a { min-width: 2rem; padding: .3rem .5rem; text-align: center; background: var(--bg); border-radius: .5rem; text-decoration: none; }

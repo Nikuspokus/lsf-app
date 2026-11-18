@@ -1,16 +1,18 @@
 import type { Category, Sign } from '../types'
+import generated from './signs.generated.json'
 
 export const categories: Category[] = [
   { id: 'salutations', label: 'Salutations', emoji: '👋' },
   { id: 'famille', label: 'Famille', emoji: '👨‍👩‍👧' },
   { id: 'couleurs', label: 'Couleurs', emoji: '🎨' },
   { id: 'questions', label: 'Questions', emoji: '❓' },
+  { id: 'vocabulaire', label: 'Vocabulaire A–Z', emoji: '📖' },
 ]
 
 const s = (category: string, id: string, word: string, hint?: string): Sign => ({ id, word, category, hint })
 
 // Pour ajouter un signe : une ligne ici + un fichier public/media/<id>.mp4 (ou .webm/.gif/.webp)
-export const signs: Sign[] = [
+const curated: Sign[] = [
   s('salutations', 'bonjour', 'Bonjour'),
   s('salutations', 'au-revoir', 'Au revoir'),
   s('salutations', 'merci', 'Merci'),
@@ -43,3 +45,12 @@ export const signs: Sign[] = [
   s('questions', 'comment', 'Comment'),
 
 ]
+
+// Mots importés automatiquement par `npm run import:commons -- --all`
+const imported: Sign[] = (generated as { id: string; word: string }[]).map((g) => ({
+  id: g.id,
+  word: g.word,
+  category: 'vocabulaire',
+}))
+
+export const signs: Sign[] = [...curated, ...imported]

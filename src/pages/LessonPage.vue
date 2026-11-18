@@ -5,16 +5,22 @@ import { signs } from '../data/signs'
 import { useProgressStore } from '../stores/useProgressStore'
 import { mediaUrl } from '../composables/useSignMedia'
 import { shuffle } from '../composables/useShuffle'
+import { firstLetter } from '../composables/useLetters'
 import SignMedia from '../components/features/SignMedia.vue'
 
 const route = useRoute()
 const store = useProgressStore()
 
+const SESSION_SIZE = 15
+
 const categoryId = String(route.params.cat)
-const pool = signs.filter((sign) => categoryId === 'all' || sign.category === categoryId)
+const letter = typeof route.query.letter === 'string' ? route.query.letter.toUpperCase() : null
+const pool = signs.filter(
+  (sign) => (categoryId === 'all' || sign.category === categoryId) && (!letter || firstLetter(sign.word) === letter),
+)
 
 const forceAll = ref(false)
-const queue = ref(shuffle(pool.filter((sign) => store.isDue(sign.id))))
+const queue = ref(shuffle(pool.filter((sign) => store.isDue(sign.id))).slice(0, SESSION_SIZE))
 const revealed = ref(false)
 const done = ref(0)
 
@@ -32,7 +38,7 @@ function answer(known: boolean) {
 
 function reviewAll() {
   forceAll.value = true
-  queue.value = shuffle(pool)
+  queue.value = shuffle(pool).slice(0, SESSION_SIZE)
   done.value = 0
 }
 </script>
@@ -41,7 +47,7 @@ function reviewAll() {
   <RouterLink to="/" class="back">← Accueil</RouterLink>
 
   <template v-if="current">
-    <p class="subtitle">{{ queue.length }} carte(s) restante(s)</p>
+    <p class="subtitle">{{ queue.length }} carte(s) restante(s) dans cette séance</p>
     <SignMedia :src="mediaUrl(current.id)" />
 
     <div v-if="revealed" class="answer">
@@ -56,7 +62,7 @@ function reviewAll() {
   </template>
 
   <div v-else class="answer">
-    <h2>{{ done ? 'Session terminée 🎉' : 'Rien à réviser pour le moment' }}</h2>
-    <button @click="reviewAll">Tout réviser quand même</button>
+    <h2>{{ done ? 'Séance terminée 🎉' : 'Rien à réviser pour le moment' }}</h2>
+    <button @click="reviewAll">Nouvelle séance de {{ SESSION_SIZE }} cartes</button>
   </div>
 </template>
