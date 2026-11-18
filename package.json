@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "media": "node scripts/media-manifest.mjs",
+    "import:commons": "node scripts/import-commons.mjs",
     "predev": "npm run media",
     "dev": "vite",
     "prebuild": "npm run media",

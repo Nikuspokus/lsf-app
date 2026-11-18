@@ -37,6 +37,7 @@ const stats = (categoryId: string) => {
   <p class="footer">
     <RouterLink to="/lesson/all">Tout réviser</RouterLink> ·
     <RouterLink to="/quiz/all">Quiz général</RouterLink> ·
+    <RouterLink to="/credits">Crédits</RouterLink> ·
     <a href="#" @click.prevent="store.reset()">Réinitialiser</a>
     <br />v{{ version }}
   </p>

@@ -33,6 +33,20 @@ La progression de l'utilisateur est stockée dans le `localStorage` de l'apparei
 Sans média, le signe apparaît quand même en révision (carte vide à auto-évaluer) mais est exclu du quiz.
 Vérifier les droits d'utilisation des vidéos (enregistrements personnels ou sources sous licence libre).
 
+## Importer des vidéos libres (Wikimedia Commons)
+
+Prérequis sur ta machine : Node 22+ et `ffmpeg` (`brew install ffmpeg`).
+
+```bash
+npm run import:commons                 # simulation : liste les correspondances signe ↔ fichier
+npm run import:commons -- --download   # télécharge, compresse en mp4, écrit src/data/credits.json
+```
+
+- Seules les licences réutilisables (CC BY, CC BY-SA, CC0, domaine public) sont retenues ; NC et ND sont écartées.
+- Les crédits (auteur, licence, source) sont affichés dans l'écran **Crédits** : obligatoires avec CC BY / CC BY-SA.
+- Par défaut seules les correspondances exactes sont acceptées (`--loose` accepte les partielles : à vérifier à l'œil).
+- Vérifie toujours en simulation que le signe correspond bien au mot avant de télécharger.
+
 ## Développement
 
 ```bash
