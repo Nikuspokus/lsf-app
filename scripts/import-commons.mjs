@@ -3,6 +3,7 @@
 //
 //   node scripts/import-commons.mjs                 # simulation : affiche les correspondances
 //   node scripts/import-commons.mjs --download      # télécharge, compresse (ffmpeg), écrit les crédits
+//   node scripts/import-commons.mjs --list         # affiche tous les fichiers trouvés (titre + licence)
 //   options : --category=Nom_de_categorie (répétable)   --loose (accepte les correspondances partielles)
 //
 // Prérequis : Node 22+ et ffmpeg installé (brew install ffmpeg).
@@ -15,6 +16,7 @@ import { isAllowedLicense, matchScore, stripHtml } from './commons-lib.mjs'
 const args = process.argv.slice(2)
 const download = args.includes('--download')
 const loose = args.includes('--loose')
+const list = args.includes('--list')
 const categories = args.filter((a) => a.startsWith('--category=')).map((a) => a.slice(11))
 if (!categories.length) categories.push('Videos_Langue_des_signes_française', 'Videos_of_French_Sign_Language')
 
@@ -49,11 +51,22 @@ async function fetchCategory(category) {
 const pages = (await Promise.all(categories.map(fetchCategory))).flat()
 console.log(`${pages.length} fichier(s) trouvé(s) dans ${categories.join(', ')}`)
 
+const isVideo = (page, info) =>
+  /^video\//.test(info?.mime ?? '') || info?.mime === 'application/ogg' || /\.(webm|ogv|mp4|mpg|mov)$/i.test(page.title)
+
+if (list) {
+  for (const page of pages) {
+    const info = page.imageinfo?.[0]
+    console.log(`${isVideo(page, info) ? 'V' : '-'} ${page.title}  [${info?.extmetadata?.LicenseShortName?.value ?? '?'}]`)
+  }
+  process.exit(0)
+}
+
 const candidates = new Map() // id → { score, page }
 let rejectedLicense = 0
 for (const page of pages) {
   const info = page.imageinfo?.[0]
-  if (!info || !/^video\//.test(info.mime ?? '')) continue
+  if (!info || !isVideo(page, info)) continue
   const meta = info.extmetadata ?? {}
   if (!isAllowedLicense(meta.LicenseShortName?.value)) { rejectedLicense++; continue }
   for (const id of signIds) {
