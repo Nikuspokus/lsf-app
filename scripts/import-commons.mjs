@@ -16,7 +16,7 @@ const args = process.argv.slice(2)
 const download = args.includes('--download')
 const loose = args.includes('--loose')
 const categories = args.filter((a) => a.startsWith('--category=')).map((a) => a.slice(11))
-if (!categories.length) categories.push('Videos_Langue_des_signes_francaise')
+if (!categories.length) categories.push('Videos_Langue_des_signes_française', 'Videos_of_French_Sign_Language')
 
 const API = 'https://commons.wikimedia.org/w/api.php'
 const HEADERS = { 'User-Agent': 'lsf-app-import/0.1 (https://github.com/Nikuspokus/lsf-app)' }
