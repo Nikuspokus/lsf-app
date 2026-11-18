@@ -1,10 +1,18 @@
 <script setup lang="ts">
+import { ref } from 'vue'
+import { useRouter } from 'vue-router'
 import { categories, signs } from '../data/signs'
 import { useProgressStore } from '../stores/useProgressStore'
 import { hasMedia } from '../composables/useSignMedia'
 import { firstLetter } from '../composables/useLetters'
 
 const store = useProgressStore()
+const router = useRouter()
+const query = ref('')
+
+function search() {
+  router.push({ path: '/dictionary', query: { q: query.value.trim() } })
+}
 const version = __APP_VERSION__
 
 const letters = [...new Set(signs.filter((sign) => sign.category === 'vocabulaire').map((sign) => firstLetter(sign.word)))].sort()
@@ -27,15 +35,21 @@ const visibleCategories = categories.filter((category) => category.id !== 'vocab
     <p class="subtitle">Apprendre la langue des signes française</p>
   </header>
 
+  <form class="searchbar" @submit.prevent="search">
+    <input v-model="query" type="search" placeholder="Rechercher un signe (ex. papa)" />
+    <button type="submit">Chercher</button>
+  </form>
+
   <ul class="cards">
     <li v-for="category in visibleCategories" :key="category.id" class="card">
       <h2>{{ category.emoji }} {{ category.label }}</h2>
       <p>{{ stats(category.id).mastered }} / {{ stats(category.id).total }} maîtrisés</p>
       <progress :value="stats(category.id).mastered" :max="stats(category.id).total" />
       <p v-if="category.id === 'vocabulaire' && letters.length" class="letters">
-        <RouterLink v-for="letter in letters" :key="letter" :to="`/lesson/vocabulaire?letter=${letter}`">{{ letter }}</RouterLink>
+        <RouterLink v-for="letter in letters" :key="letter" :to="`/dictionary?cat=vocabulaire&letter=${letter}`">{{ letter }}</RouterLink>
       </p>
       <div class="actions">
+        <RouterLink :to="`/dictionary?cat=${category.id}`">Parcourir</RouterLink>
         <RouterLink :to="`/lesson/${category.id}`">Réviser</RouterLink>
         <RouterLink v-if="stats(category.id).withMedia" :to="`/quiz/${category.id}`">Quiz</RouterLink>
       </div>
@@ -43,6 +57,7 @@ const visibleCategories = categories.filter((category) => category.id !== 'vocab
   </ul>
 
   <p class="footer">
+    <RouterLink to="/dictionary">Dictionnaire</RouterLink> ·
     <RouterLink to="/lesson/all">Tout réviser</RouterLink> ·
     <RouterLink to="/quiz/all">Quiz général</RouterLink> ·
     <RouterLink to="/credits">Crédits</RouterLink> ·

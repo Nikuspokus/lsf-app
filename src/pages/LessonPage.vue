@@ -1,8 +1,10 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
+import { storeToRefs } from 'pinia'
 import { useRoute } from 'vue-router'
 import { signs } from '../data/signs'
 import { useProgressStore } from '../stores/useProgressStore'
+import { useSettingsStore } from '../stores/useSettingsStore'
 import { mediaUrl } from '../composables/useSignMedia'
 import { shuffle } from '../composables/useShuffle'
 import { firstLetter } from '../composables/useLetters'
@@ -10,6 +12,7 @@ import SignMedia from '../components/features/SignMedia.vue'
 
 const route = useRoute()
 const store = useProgressStore()
+const { showWordFirst } = storeToRefs(useSettingsStore())
 
 const SESSION_SIZE = 15
 
@@ -21,16 +24,20 @@ const pool = signs.filter(
 
 const forceAll = ref(false)
 const queue = ref(shuffle(pool.filter((sign) => store.isDue(sign.id))).slice(0, SESSION_SIZE))
-const revealed = ref(false)
+const revealed = ref(showWordFirst.value)
 const done = ref(0)
 
 const current = computed(() => queue.value[0] ?? null)
+
+watch(showWordFirst, (value) => {
+  if (value) revealed.value = true
+})
 
 function answer(known: boolean) {
   if (!current.value) return
   store.rate(current.value.id, known)
   done.value++
-  revealed.value = false
+  revealed.value = showWordFirst.value
   // « À revoir » : la carte repasse en fin de file ; « Je savais » : elle sort
   const [card, ...rest] = queue.value
   queue.value = known ? rest : [...rest, card]
@@ -45,6 +52,7 @@ function reviewAll() {
 
 <template>
   <RouterLink to="/" class="back">← Accueil</RouterLink>
+  <label class="toggle"><input v-model="showWordFirst" type="checkbox" /> Afficher le mot dès le début</label>
 
   <template v-if="current">
     <p class="subtitle">{{ queue.length }} carte(s) restante(s) dans cette séance</p>

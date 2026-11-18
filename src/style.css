@@ -43,3 +43,17 @@ button:disabled { opacity: 1; cursor: default; }
 
 .letters { display: flex; flex-wrap: wrap; gap: .4rem; }
 .letters a { min-width: 2rem; padding: .3rem .5rem; text-align: center; background: var(--bg); border-radius: .5rem; text-decoration: none; }
+
+.search, .searchbar input { width: 100%; padding: .85rem 1rem; font: inherit; color: var(--text); background: var(--panel); border: 1px solid #334155; border-radius: .75rem; }
+.searchbar { display: flex; gap: .5rem; }
+.searchbar button { flex: none; }
+.chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+.chips button { flex: none; padding: .35rem .75rem; background: var(--panel); color: var(--text); font-weight: 500; }
+.chips button.active { background: var(--accent); color: var(--bg); }
+.entries { list-style: none; padding: 0; display: grid; gap: .5rem; }
+.entry { background: var(--panel); border-radius: .75rem; overflow: hidden; }
+.entry-row { display: flex; align-items: center; gap: .75rem; width: 100%; background: none; color: var(--text); text-align: left; font-weight: 500; }
+.entry-word { flex: 1; font-weight: 600; }
+.entry-cat { color: var(--muted); font-size: .8rem; }
+.entry-media { padding: 0 .75rem .75rem; display: grid; gap: .5rem; }
+.toggle { display: flex; align-items: center; gap: .5rem; color: var(--muted); font-size: .9rem; }
