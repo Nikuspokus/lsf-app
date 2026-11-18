@@ -1,1 +1,1682 @@
-[]
+[
+  {
+    "id": "a-bientot",
+    "word": "À bientôt"
+  },
+  {
+    "id": "a-genoux",
+    "word": "À genoux"
+  },
+  {
+    "id": "a-peu-pres",
+    "word": "À peu près"
+  },
+  {
+    "id": "a-tout-a-lheure",
+    "word": "À tout à l'heure"
+  },
+  {
+    "id": "abandonner",
+    "word": "Abandonner"
+  },
+  {
+    "id": "abeille",
+    "word": "Abeille"
+  },
+  {
+    "id": "accompagner",
+    "word": "Accompagner"
+  },
+  {
+    "id": "acheter",
+    "word": "Acheter"
+  },
+  {
+    "id": "adolescent",
+    "word": "Adolescent"
+  },
+  {
+    "id": "adorer",
+    "word": "Adorer"
+  },
+  {
+    "id": "aix",
+    "word": "Aix"
+  },
+  {
+    "id": "aller",
+    "word": "Aller"
+  },
+  {
+    "id": "aller-chercher",
+    "word": "Aller chercher"
+  },
+  {
+    "id": "amant",
+    "word": "Amant"
+  },
+  {
+    "id": "ami-e",
+    "word": "Ami·e"
+  },
+  {
+    "id": "ami-e-s",
+    "word": "Ami·e·s"
+  },
+  {
+    "id": "amour",
+    "word": "Amour"
+  },
+  {
+    "id": "anniversaire",
+    "word": "Anniversaire"
+  },
+  {
+    "id": "apercevoir",
+    "word": "Apercevoir"
+  },
+  {
+    "id": "appeler",
+    "word": "Appeler"
+  },
+  {
+    "id": "apporter",
+    "word": "Apporter"
+  },
+  {
+    "id": "apprendre",
+    "word": "Apprendre"
+  },
+  {
+    "id": "approcher",
+    "word": "Approcher"
+  },
+  {
+    "id": "apres",
+    "word": "Après"
+  },
+  {
+    "id": "apres-midi",
+    "word": "Après-midi"
+  },
+  {
+    "id": "arbre",
+    "word": "Arbre"
+  },
+  {
+    "id": "argente",
+    "word": "Argenté"
+  },
+  {
+    "id": "arreter",
+    "word": "Arrêter"
+  },
+  {
+    "id": "attendre",
+    "word": "Attendre"
+  },
+  {
+    "id": "attention",
+    "word": "Attention"
+  },
+  {
+    "id": "au-bord-de",
+    "word": "Au bord de…"
+  },
+  {
+    "id": "aubagne",
+    "word": "Aubagne"
+  },
+  {
+    "id": "aujourdhui",
+    "word": "Aujourd'hui"
+  },
+  {
+    "id": "autoroute",
+    "word": "Autoroute"
+  },
+  {
+    "id": "avant",
+    "word": "Avant"
+  },
+  {
+    "id": "avec",
+    "word": "Avec"
+  },
+  {
+    "id": "avion",
+    "word": "Avion"
+  },
+  {
+    "id": "ballon",
+    "word": "Ballon"
+  },
+  {
+    "id": "banane",
+    "word": "Banane"
+  },
+  {
+    "id": "banque",
+    "word": "Banque"
+  },
+  {
+    "id": "beacoup",
+    "word": "Beacoup"
+  },
+  {
+    "id": "bebe",
+    "word": "Bébé"
+  },
+  {
+    "id": "bien",
+    "word": "Bien"
+  },
+  {
+    "id": "bientot",
+    "word": "Bientôt"
+  },
+  {
+    "id": "billard",
+    "word": "Billard"
+  },
+  {
+    "id": "bleu-marine",
+    "word": "Bleu marine"
+  },
+  {
+    "id": "blond",
+    "word": "Blond"
+  },
+  {
+    "id": "boeuf",
+    "word": "Boeuf"
+  },
+  {
+    "id": "boire",
+    "word": "Boire"
+  },
+  {
+    "id": "boiter",
+    "word": "Boiter"
+  },
+  {
+    "id": "bon",
+    "word": "Bon"
+  },
+  {
+    "id": "bon-appetit",
+    "word": "Bon appétit"
+  },
+  {
+    "id": "bonne-journee",
+    "word": "Bonne journée"
+  },
+  {
+    "id": "bonne-soiree",
+    "word": "Bonne soirée"
+  },
+  {
+    "id": "bonsoir",
+    "word": "Bonsoir"
+  },
+  {
+    "id": "bowling",
+    "word": "Bowling"
+  },
+  {
+    "id": "bracelet",
+    "word": "Bracelet"
+  },
+  {
+    "id": "bretagne",
+    "word": "Bretagne"
+  },
+  {
+    "id": "bureau",
+    "word": "Bureau"
+  },
+  {
+    "id": "bus",
+    "word": "Bus"
+  },
+  {
+    "id": "ca-va",
+    "word": "Ça va"
+  },
+  {
+    "id": "cafe",
+    "word": "Café"
+  },
+  {
+    "id": "camion",
+    "word": "Camion"
+  },
+  {
+    "id": "campagne",
+    "word": "Campagne"
+  },
+  {
+    "id": "canape",
+    "word": "Canapé"
+  },
+  {
+    "id": "canard",
+    "word": "Canard"
+  },
+  {
+    "id": "capter-des-mots",
+    "word": "Capter des mots"
+  },
+  {
+    "id": "car",
+    "word": "Car"
+  },
+  {
+    "id": "carotte",
+    "word": "Carotte"
+  },
+  {
+    "id": "casser",
+    "word": "Casser"
+  },
+  {
+    "id": "cassette",
+    "word": "Cassette"
+  },
+  {
+    "id": "centre-ville",
+    "word": "Centre ville"
+  },
+  {
+    "id": "cerf",
+    "word": "Cerf"
+  },
+  {
+    "id": "certificat",
+    "word": "Certificat"
+  },
+  {
+    "id": "chaise",
+    "word": "Chaise"
+  },
+  {
+    "id": "champignon",
+    "word": "Champignon"
+  },
+  {
+    "id": "chance",
+    "word": "Chance"
+  },
+  {
+    "id": "chapeau",
+    "word": "Chapeau"
+  },
+  {
+    "id": "chat",
+    "word": "Chat"
+  },
+  {
+    "id": "chatain",
+    "word": "Châtain"
+  },
+  {
+    "id": "chaud",
+    "word": "Chaud"
+  },
+  {
+    "id": "chemin",
+    "word": "Chemin"
+  },
+  {
+    "id": "chercher",
+    "word": "Chercher"
+  },
+  {
+    "id": "chercher-les-ennuis",
+    "word": "Chercher les ennuis"
+  },
+  {
+    "id": "chien",
+    "word": "Chien"
+  },
+  {
+    "id": "chocolat",
+    "word": "Chocolat"
+  },
+  {
+    "id": "chocolatine-pain-au-chocolat",
+    "word": "Chocolatine (pain au chocolat)"
+  },
+  {
+    "id": "cinema",
+    "word": "Cinéma"
+  },
+  {
+    "id": "cirque",
+    "word": "Cirque"
+  },
+  {
+    "id": "clair",
+    "word": "Clair"
+  },
+  {
+    "id": "clown",
+    "word": "Clown"
+  },
+  {
+    "id": "coca",
+    "word": "Coca"
+  },
+  {
+    "id": "collant-vetement",
+    "word": "Collant (vêtement)"
+  },
+  {
+    "id": "college",
+    "word": "Collège"
+  },
+  {
+    "id": "combien",
+    "word": "Combien"
+  },
+  {
+    "id": "commencer",
+    "word": "Commencer"
+  },
+  {
+    "id": "comment-dire",
+    "word": "Comment dire"
+  },
+  {
+    "id": "communiquer",
+    "word": "Communiquer"
+  },
+  {
+    "id": "comprendre",
+    "word": "Comprendre"
+  },
+  {
+    "id": "compris",
+    "word": "Compris"
+  },
+  {
+    "id": "concentrer",
+    "word": "Concentrer"
+  },
+  {
+    "id": "concombre",
+    "word": "Concombre"
+  },
+  {
+    "id": "concours",
+    "word": "Concours"
+  },
+  {
+    "id": "conference-pour-les-entendants",
+    "word": "Conférence pour les entendants"
+  },
+  {
+    "id": "conference-pour-les-sourds",
+    "word": "Conférence pour les sourds"
+  },
+  {
+    "id": "configuration",
+    "word": "Configuration"
+  },
+  {
+    "id": "conseiller",
+    "word": "Conseiller"
+  },
+  {
+    "id": "content",
+    "word": "Content"
+  },
+  {
+    "id": "corps",
+    "word": "Corps"
+  },
+  {
+    "id": "couleur",
+    "word": "Couleur"
+  },
+  {
+    "id": "courir",
+    "word": "Courir"
+  },
+  {
+    "id": "cours",
+    "word": "Cours"
+  },
+  {
+    "id": "couscous",
+    "word": "Couscous"
+  },
+  {
+    "id": "cousin",
+    "word": "Cousin"
+  },
+  {
+    "id": "crayon",
+    "word": "Crayon"
+  },
+  {
+    "id": "critiquer",
+    "word": "Critiquer"
+  },
+  {
+    "id": "croiser",
+    "word": "Croiser"
+  },
+  {
+    "id": "croissant",
+    "word": "Croissant"
+  },
+  {
+    "id": "cuisine",
+    "word": "Cuisine"
+  },
+  {
+    "id": "danser",
+    "word": "Danser"
+  },
+  {
+    "id": "de-rien",
+    "word": "De rien"
+  },
+  {
+    "id": "demain",
+    "word": "Demain"
+  },
+  {
+    "id": "demander",
+    "word": "Demander"
+  },
+  {
+    "id": "derniere",
+    "word": "Dernière"
+  },
+  {
+    "id": "derriere",
+    "word": "Derrière"
+  },
+  {
+    "id": "dessert",
+    "word": "Dessert"
+  },
+  {
+    "id": "detail",
+    "word": "Détail"
+  },
+  {
+    "id": "devant",
+    "word": "Devant"
+  },
+  {
+    "id": "devoir",
+    "word": "Devoir"
+  },
+  {
+    "id": "dialoguer",
+    "word": "Dialoguer"
+  },
+  {
+    "id": "different",
+    "word": "Différent"
+  },
+  {
+    "id": "diplome",
+    "word": "Diplôme"
+  },
+  {
+    "id": "dire",
+    "word": "Dire"
+  },
+  {
+    "id": "directeur",
+    "word": "Directeur"
+  },
+  {
+    "id": "discuter",
+    "word": "Discuter"
+  },
+  {
+    "id": "divorcer",
+    "word": "Divorcer"
+  },
+  {
+    "id": "dommage",
+    "word": "Dommage"
+  },
+  {
+    "id": "donner-rendre",
+    "word": "Donner, rendre"
+  },
+  {
+    "id": "dore",
+    "word": "Doré"
+  },
+  {
+    "id": "dormir",
+    "word": "Dormir"
+  },
+  {
+    "id": "dossier",
+    "word": "Dossier"
+  },
+  {
+    "id": "eau",
+    "word": "Eau"
+  },
+  {
+    "id": "ecole",
+    "word": "École"
+  },
+  {
+    "id": "ecrire",
+    "word": "Écrire"
+  },
+  {
+    "id": "educateur",
+    "word": "Éducateur"
+  },
+  {
+    "id": "eleve",
+    "word": "Élève"
+  },
+  {
+    "id": "email",
+    "word": "Email"
+  },
+  {
+    "id": "emplacement",
+    "word": "Emplacement"
+  },
+  {
+    "id": "encore",
+    "word": "Encore"
+  },
+  {
+    "id": "enseigner-apprendre",
+    "word": "Enseigner, apprendre"
+  },
+  {
+    "id": "ensemble",
+    "word": "Ensemble"
+  },
+  {
+    "id": "entendant",
+    "word": "Entendant"
+  },
+  {
+    "id": "entree",
+    "word": "Entrée"
+  },
+  {
+    "id": "envoyer",
+    "word": "Envoyer"
+  },
+  {
+    "id": "escargot",
+    "word": "Escargot"
+  },
+  {
+    "id": "esperer",
+    "word": "Espérer"
+  },
+  {
+    "id": "essayer",
+    "word": "Essayer"
+  },
+  {
+    "id": "ete",
+    "word": "Été"
+  },
+  {
+    "id": "etonner",
+    "word": "Étonner"
+  },
+  {
+    "id": "etre-contre",
+    "word": "Être contre"
+  },
+  {
+    "id": "fatigue",
+    "word": "Fatigué"
+  },
+  {
+    "id": "faxer",
+    "word": "Faxer"
+  },
+  {
+    "id": "femme",
+    "word": "Femme"
+  },
+  {
+    "id": "femme-de-menage",
+    "word": "Femme de ménage"
+  },
+  {
+    "id": "fenetre",
+    "word": "Fenêtre"
+  },
+  {
+    "id": "ferme",
+    "word": "Fermé"
+  },
+  {
+    "id": "fete",
+    "word": "Fête"
+  },
+  {
+    "id": "feter",
+    "word": "Fêter"
+  },
+  {
+    "id": "fier",
+    "word": "Fier"
+  },
+  {
+    "id": "filet",
+    "word": "Filet"
+  },
+  {
+    "id": "fille",
+    "word": "Fille"
+  },
+  {
+    "id": "fille-la",
+    "word": "Fille (la)"
+  },
+  {
+    "id": "film",
+    "word": "Film"
+  },
+  {
+    "id": "fils",
+    "word": "Fils"
+  },
+  {
+    "id": "finir",
+    "word": "Finir"
+  },
+  {
+    "id": "fleur",
+    "word": "Fleur"
+  },
+  {
+    "id": "fonce",
+    "word": "Foncé"
+  },
+  {
+    "id": "foot",
+    "word": "Foot"
+  },
+  {
+    "id": "formateur",
+    "word": "Formateur"
+  },
+  {
+    "id": "formation",
+    "word": "Formation"
+  },
+  {
+    "id": "forme",
+    "word": "Forme"
+  },
+  {
+    "id": "francais-langue",
+    "word": "Français (langue)"
+  },
+  {
+    "id": "frite",
+    "word": "Frite"
+  },
+  {
+    "id": "froid",
+    "word": "Froid"
+  },
+  {
+    "id": "fromage",
+    "word": "Fromage"
+  },
+  {
+    "id": "fruit",
+    "word": "Fruit"
+  },
+  {
+    "id": "gap",
+    "word": "Gap"
+  },
+  {
+    "id": "garcon",
+    "word": "Garçon"
+  },
+  {
+    "id": "gare",
+    "word": "Gare"
+  },
+  {
+    "id": "gateau",
+    "word": "Gâteau"
+  },
+  {
+    "id": "gentil",
+    "word": "Gentil"
+  },
+  {
+    "id": "girafe",
+    "word": "Girafe"
+  },
+  {
+    "id": "glisser",
+    "word": "Glisser"
+  },
+  {
+    "id": "grand-parent",
+    "word": "Grand-parent"
+  },
+  {
+    "id": "hypnose",
+    "word": "Hypnose"
+  },
+  {
+    "id": "il-y-a-du-vent",
+    "word": "Il y a du vent"
+  },
+  {
+    "id": "important",
+    "word": "Important"
+  },
+  {
+    "id": "jai",
+    "word": "J'ai"
+  },
+  {
+    "id": "je-nai-pas-le-temps",
+    "word": "Je n'ai pas le temps"
+  },
+  {
+    "id": "je-ne-crois-pas",
+    "word": "Je ne crois pas"
+  },
+  {
+    "id": "je-suis-daccord",
+    "word": "Je suis d'accord"
+  },
+  {
+    "id": "laid",
+    "word": "Laid"
+  },
+  {
+    "id": "lit",
+    "word": "Lit"
+  },
+  {
+    "id": "livre",
+    "word": "Livre"
+  },
+  {
+    "id": "ma-mes",
+    "word": "Ma, mes"
+  },
+  {
+    "id": "maintenant",
+    "word": "Maintenant"
+  },
+  {
+    "id": "maitresse",
+    "word": "Maîtresse"
+  },
+  {
+    "id": "marcher",
+    "word": "Marcher"
+  },
+  {
+    "id": "marignane",
+    "word": "Marignane"
+  },
+  {
+    "id": "marron",
+    "word": "Marron"
+  },
+  {
+    "id": "marseille",
+    "word": "Marseille"
+  },
+  {
+    "id": "matin",
+    "word": "Matin"
+  },
+  {
+    "id": "mauvais",
+    "word": "Mauvais"
+  },
+  {
+    "id": "mechant",
+    "word": "Méchant"
+  },
+  {
+    "id": "medecin",
+    "word": "Médecin"
+  },
+  {
+    "id": "mer",
+    "word": "Mer"
+  },
+  {
+    "id": "messe",
+    "word": "Messe"
+  },
+  {
+    "id": "mettre",
+    "word": "Mettre"
+  },
+  {
+    "id": "mettre-a-la-porte",
+    "word": "Mettre à la porte"
+  },
+  {
+    "id": "midi",
+    "word": "Midi"
+  },
+  {
+    "id": "moi",
+    "word": "Moi"
+  },
+  {
+    "id": "monsieur",
+    "word": "Monsieur"
+  },
+  {
+    "id": "montagne",
+    "word": "Montagne"
+  },
+  {
+    "id": "montgolfiere",
+    "word": "Montgolfière"
+  },
+  {
+    "id": "montre-accessoire",
+    "word": "Montre (accessoire)"
+  },
+  {
+    "id": "moquer",
+    "word": "Moquer"
+  },
+  {
+    "id": "mot",
+    "word": "Mot"
+  },
+  {
+    "id": "moto",
+    "word": "Moto"
+  },
+  {
+    "id": "mouton",
+    "word": "Mouton"
+  },
+  {
+    "id": "mouvement",
+    "word": "Mouvement"
+  },
+  {
+    "id": "nager",
+    "word": "Nager"
+  },
+  {
+    "id": "neveu",
+    "word": "Neveu"
+  },
+  {
+    "id": "niece",
+    "word": "Nièce"
+  },
+  {
+    "id": "nombreux",
+    "word": "Nombreux"
+  },
+  {
+    "id": "non-merci",
+    "word": "Non merci"
+  },
+  {
+    "id": "non-signe",
+    "word": "Non-signé"
+  },
+  {
+    "id": "nous",
+    "word": "Nous"
+  },
+  {
+    "id": "nouvelle",
+    "word": "Nouvelle"
+  },
+  {
+    "id": "objet",
+    "word": "Objet"
+  },
+  {
+    "id": "oeuf",
+    "word": "Oeuf"
+  },
+  {
+    "id": "offrir",
+    "word": "Offrir"
+  },
+  {
+    "id": "oie",
+    "word": "Oie"
+  },
+  {
+    "id": "oncle",
+    "word": "Oncle"
+  },
+  {
+    "id": "or",
+    "word": "Or"
+  },
+  {
+    "id": "orange",
+    "word": "Orange"
+  },
+  {
+    "id": "orientation",
+    "word": "Orientation"
+  },
+  {
+    "id": "oublier",
+    "word": "Oublier"
+  },
+  {
+    "id": "oumanie",
+    "word": "Oumanie (?)"
+  },
+  {
+    "id": "ours",
+    "word": "Ours"
+  },
+  {
+    "id": "ouvert",
+    "word": "Ouvert"
+  },
+  {
+    "id": "paella",
+    "word": "Paella"
+  },
+  {
+    "id": "pain",
+    "word": "Pain"
+  },
+  {
+    "id": "palme",
+    "word": "Palme"
+  },
+  {
+    "id": "pantalon",
+    "word": "Pantalon"
+  },
+  {
+    "id": "papier",
+    "word": "Papier"
+  },
+  {
+    "id": "parametre",
+    "word": "Paramètre"
+  },
+  {
+    "id": "pareil",
+    "word": "Pareil"
+  },
+  {
+    "id": "parent",
+    "word": "Parent"
+  },
+  {
+    "id": "paris",
+    "word": "Paris"
+  },
+  {
+    "id": "parle",
+    "word": "Parlé"
+  },
+  {
+    "id": "participer",
+    "word": "Participer"
+  },
+  {
+    "id": "partir",
+    "word": "Partir"
+  },
+  {
+    "id": "pas-content",
+    "word": "Pas content"
+  },
+  {
+    "id": "pas-grave",
+    "word": "Pas grave"
+  },
+  {
+    "id": "pate",
+    "word": "Pâte"
+  },
+  {
+    "id": "patin-a-glace",
+    "word": "Patin à glace"
+  },
+  {
+    "id": "patin-a-roulettes",
+    "word": "Patin à roulettes"
+  },
+  {
+    "id": "patron",
+    "word": "Patron"
+  },
+  {
+    "id": "payer",
+    "word": "Payer"
+  },
+  {
+    "id": "personne",
+    "word": "Personne"
+  },
+  {
+    "id": "petit",
+    "word": "Petit"
+  },
+  {
+    "id": "petits-enfants",
+    "word": "Petits-enfants"
+  },
+  {
+    "id": "peur",
+    "word": "Peur"
+  },
+  {
+    "id": "phrase",
+    "word": "Phrase"
+  },
+  {
+    "id": "ping-pong",
+    "word": "Ping-pong"
+  },
+  {
+    "id": "pique-nique",
+    "word": "Pique-nique"
+  },
+  {
+    "id": "piscine",
+    "word": "Piscine"
+  },
+  {
+    "id": "plage",
+    "word": "Plage"
+  },
+  {
+    "id": "planche-a-voile",
+    "word": "Planche à voile"
+  },
+  {
+    "id": "planete",
+    "word": "Planète"
+  },
+  {
+    "id": "pleurer",
+    "word": "Pleurer"
+  },
+  {
+    "id": "pleuvoir",
+    "word": "Pleuvoir"
+  },
+  {
+    "id": "plonger",
+    "word": "Plonger"
+  },
+  {
+    "id": "plusieurs",
+    "word": "Plusieurs"
+  },
+  {
+    "id": "poisson",
+    "word": "Poisson"
+  },
+  {
+    "id": "polonais-langue",
+    "word": "Polonais (langue)"
+  },
+  {
+    "id": "pomme",
+    "word": "Pomme"
+  },
+  {
+    "id": "pomme-de-terre",
+    "word": "Pomme de terre"
+  },
+  {
+    "id": "pompier",
+    "word": "Pompier"
+  },
+  {
+    "id": "pont",
+    "word": "Pont"
+  },
+  {
+    "id": "portable",
+    "word": "Portable"
+  },
+  {
+    "id": "porte",
+    "word": "Porte"
+  },
+  {
+    "id": "poubelle",
+    "word": "Poubelle"
+  },
+  {
+    "id": "poule",
+    "word": "Poule"
+  },
+  {
+    "id": "pour",
+    "word": "Pour"
+  },
+  {
+    "id": "pour-rien",
+    "word": "Pour rien"
+  },
+  {
+    "id": "prefere-e",
+    "word": "Préféré·e"
+  },
+  {
+    "id": "preferer",
+    "word": "Préférer"
+  },
+  {
+    "id": "premiere",
+    "word": "Première"
+  },
+  {
+    "id": "prendre",
+    "word": "Prendre"
+  },
+  {
+    "id": "prenom",
+    "word": "Prénom"
+  },
+  {
+    "id": "presenter-montrer",
+    "word": "Présenter, montrer"
+  },
+  {
+    "id": "president-de-la-republique",
+    "word": "Président de la république"
+  },
+  {
+    "id": "pret",
+    "word": "Prêt"
+  },
+  {
+    "id": "preter",
+    "word": "Prêter"
+  },
+  {
+    "id": "printemps",
+    "word": "Printemps"
+  },
+  {
+    "id": "promenade",
+    "word": "Promenade"
+  },
+  {
+    "id": "pronom",
+    "word": "Pronom"
+  },
+  {
+    "id": "proposer",
+    "word": "Proposer"
+  },
+  {
+    "id": "proteger",
+    "word": "Protéger"
+  },
+  {
+    "id": "psychologue",
+    "word": "Psychologue"
+  },
+  {
+    "id": "pullover",
+    "word": "Pullover"
+  },
+  {
+    "id": "raconter",
+    "word": "Raconter"
+  },
+  {
+    "id": "rat",
+    "word": "Rat"
+  },
+  {
+    "id": "refuser",
+    "word": "Refuser"
+  },
+  {
+    "id": "regarder",
+    "word": "Regarder"
+  },
+  {
+    "id": "rembourser",
+    "word": "Rembourser"
+  },
+  {
+    "id": "rencontrer",
+    "word": "Rencontrer"
+  },
+  {
+    "id": "rendez-vous",
+    "word": "Rendez-vous"
+  },
+  {
+    "id": "repondre",
+    "word": "Répondre"
+  },
+  {
+    "id": "restaurant",
+    "word": "Restaurant"
+  },
+  {
+    "id": "rester",
+    "word": "Rester"
+  },
+  {
+    "id": "retard",
+    "word": "Retard"
+  },
+  {
+    "id": "reveur",
+    "word": "Réveur"
+  },
+  {
+    "id": "reviser",
+    "word": "Réviser"
+  },
+  {
+    "id": "rire",
+    "word": "Rire"
+  },
+  {
+    "id": "riviere",
+    "word": "Rivière"
+  },
+  {
+    "id": "riz",
+    "word": "Riz"
+  },
+  {
+    "id": "robe",
+    "word": "Robe"
+  },
+  {
+    "id": "roller",
+    "word": "Roller"
+  },
+  {
+    "id": "rose",
+    "word": "Rose"
+  },
+  {
+    "id": "rouler",
+    "word": "Rouler"
+  },
+  {
+    "id": "route-nationale",
+    "word": "Route nationale"
+  },
+  {
+    "id": "roux",
+    "word": "Roux"
+  },
+  {
+    "id": "sac-a-main",
+    "word": "Sac à main"
+  },
+  {
+    "id": "saisons-de-lannee",
+    "word": "Saisons (de l'année)"
+  },
+  {
+    "id": "salle",
+    "word": "Salle"
+  },
+  {
+    "id": "sandwich",
+    "word": "Sandwich"
+  },
+  {
+    "id": "sans-interruption",
+    "word": "Sans interruption"
+  },
+  {
+    "id": "sasseoir",
+    "word": "S'asseoir"
+  },
+  {
+    "id": "saucisson",
+    "word": "Saucisson"
+  },
+  {
+    "id": "sauf",
+    "word": "Sauf"
+  },
+  {
+    "id": "se-lever",
+    "word": "Se lever"
+  },
+  {
+    "id": "se-moquer",
+    "word": "Se moquer"
+  },
+  {
+    "id": "se-promener",
+    "word": "Se promener"
+  },
+  {
+    "id": "se-rappeler",
+    "word": "Se rappeler"
+  },
+  {
+    "id": "se-reveiller",
+    "word": "Se réveiller"
+  },
+  {
+    "id": "se-taire",
+    "word": "Se taire"
+  },
+  {
+    "id": "sens-direction",
+    "word": "Sens (direction)"
+  },
+  {
+    "id": "serre",
+    "word": "Serré"
+  },
+  {
+    "id": "seul-e",
+    "word": "Seul·e"
+  },
+  {
+    "id": "short-vetement",
+    "word": "Short (vêtement)"
+  },
+  {
+    "id": "signaire",
+    "word": "Signaire"
+  },
+  {
+    "id": "silence",
+    "word": "Silence"
+  },
+  {
+    "id": "ski",
+    "word": "Ski"
+  },
+  {
+    "id": "snowboard",
+    "word": "Snowboard"
+  },
+  {
+    "id": "soigner",
+    "word": "Soigner"
+  },
+  {
+    "id": "soir",
+    "word": "Soir"
+  },
+  {
+    "id": "soleil",
+    "word": "Soleil"
+  },
+  {
+    "id": "son-sa-ses-leurs",
+    "word": "Son, sa, ses, leurs"
+  },
+  {
+    "id": "sortie",
+    "word": "Sortie"
+  },
+  {
+    "id": "soucoupe-volante",
+    "word": "Soucoupe volante"
+  },
+  {
+    "id": "sourd",
+    "word": "Sourd"
+  },
+  {
+    "id": "sourire",
+    "word": "Sourire"
+  },
+  {
+    "id": "souris",
+    "word": "Souris"
+  },
+  {
+    "id": "sous-marin",
+    "word": "Sous-marin"
+  },
+  {
+    "id": "souvent",
+    "word": "Souvent"
+  },
+  {
+    "id": "stage",
+    "word": "Stage"
+  },
+  {
+    "id": "stagiaire",
+    "word": "Stagiaire"
+  },
+  {
+    "id": "sucre",
+    "word": "Sucre"
+  },
+  {
+    "id": "suivre",
+    "word": "Suivre"
+  },
+  {
+    "id": "super",
+    "word": "Super"
+  },
+  {
+    "id": "sympathique",
+    "word": "Sympathique"
+  },
+  {
+    "id": "tableau",
+    "word": "Tableau"
+  },
+  {
+    "id": "taille-mesure",
+    "word": "Taille (mesure)"
+  },
+  {
+    "id": "tante",
+    "word": "Tante"
+  },
+  {
+    "id": "tard",
+    "word": "Tard"
+  },
+  {
+    "id": "tartine",
+    "word": "Tartine"
+  },
+  {
+    "id": "taureau",
+    "word": "Taureau"
+  },
+  {
+    "id": "telephone",
+    "word": "Téléphone"
+  },
+  {
+    "id": "telephoner",
+    "word": "Téléphoner"
+  },
+  {
+    "id": "television",
+    "word": "Télévision"
+  },
+  {
+    "id": "tennis",
+    "word": "Tennis"
+  },
+  {
+    "id": "terre",
+    "word": "Terre"
+  },
+  {
+    "id": "terrible",
+    "word": "Terrible"
+  },
+  {
+    "id": "tgv",
+    "word": "TGV"
+  },
+  {
+    "id": "the",
+    "word": "Thé"
+  },
+  {
+    "id": "toi",
+    "word": "Toi"
+  },
+  {
+    "id": "tomber",
+    "word": "Tomber"
+  },
+  {
+    "id": "tortue-de-mer",
+    "word": "Tortue de mer"
+  },
+  {
+    "id": "tortue-de-terre",
+    "word": "Tortue de terre"
+  },
+  {
+    "id": "tot",
+    "word": "Tôt"
+  },
+  {
+    "id": "tous-les-quinze-jours",
+    "word": "Tous les quinze jours"
+  },
+  {
+    "id": "tout",
+    "word": "Tout"
+  },
+  {
+    "id": "tout-le-monde",
+    "word": "Tout le monde"
+  },
+  {
+    "id": "toute-la-nuit",
+    "word": "Toute la nuit"
+  },
+  {
+    "id": "train",
+    "word": "Train"
+  },
+  {
+    "id": "travailler",
+    "word": "Travailler"
+  },
+  {
+    "id": "tremblement-de-terre",
+    "word": "Tremblement de terre"
+  },
+  {
+    "id": "triste",
+    "word": "Triste"
+  },
+  {
+    "id": "usine",
+    "word": "Usine"
+  },
+  {
+    "id": "vacances",
+    "word": "Vacances"
+  },
+  {
+    "id": "vache",
+    "word": "Vache"
+  },
+  {
+    "id": "veau",
+    "word": "Veau"
+  },
+  {
+    "id": "vendre",
+    "word": "Vendre"
+  },
+  {
+    "id": "venir",
+    "word": "Venir"
+  },
+  {
+    "id": "vent",
+    "word": "Vent"
+  },
+  {
+    "id": "verbe-directionnel",
+    "word": "Verbe directionnel"
+  },
+  {
+    "id": "verre-de-terre",
+    "word": "Verre de terre"
+  },
+  {
+    "id": "vetement",
+    "word": "Vêtement"
+  },
+  {
+    "id": "vieu",
+    "word": "Vieu"
+  },
+  {
+    "id": "village",
+    "word": "Village"
+  },
+  {
+    "id": "ville",
+    "word": "Ville"
+  },
+  {
+    "id": "violet",
+    "word": "Violet"
+  },
+  {
+    "id": "visuel",
+    "word": "Visuel"
+  },
+  {
+    "id": "vitrolle",
+    "word": "Vitrolle"
+  },
+  {
+    "id": "vocabulaire",
+    "word": "Vocabulaire"
+  },
+  {
+    "id": "voler",
+    "word": "Voler"
+  },
+  {
+    "id": "week-end",
+    "word": "Week-end"
+  },
+  {
+    "id": "zoo",
+    "word": "Zoo"
+  }
+]

@@ -1,1 +1,2678 @@
-{}
+{
+  "bonjour": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonjour.webm"
+  },
+  "blanc": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Blanc.webm"
+  },
+  "au-revoir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Au_revoir.webm"
+  },
+  "bleu": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bleu.webm"
+  },
+  "comment": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Comment.webm"
+  },
+  "enfant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Enfant.webm"
+  },
+  "famille": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Famille.webm"
+  },
+  "frere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fr%C3%A8re.webm"
+  },
+  "merci": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Merci.webm"
+  },
+  "ou": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-O%C3%B9_%3F.webm"
+  },
+  "noir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Noir.webm"
+  },
+  "grand-pere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Grand-p%C3%A8re.webm"
+  },
+  "grand-mere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Grand-m%C3%A8re.webm"
+  },
+  "non": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Non.webm"
+  },
+  "oui": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oui.webm"
+  },
+  "papa": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Papa.webm"
+  },
+  "pardon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pardon.webm"
+  },
+  "pourquoi": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pourquoi_%3F.webm"
+  },
+  "qui": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Qui_%3F.webm"
+  },
+  "champignon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Champignon.webm"
+  },
+  "chance": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chance.webm"
+  },
+  "chapeau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chapeau.webm"
+  },
+  "chemin": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chemin.webm"
+  },
+  "clown": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Clown.webm"
+  },
+  "college": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Coll%C3%A8ge.webm"
+  },
+  "accompagner": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Accompagner.webm"
+  },
+  "abandonner": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Abandonner.webm"
+  },
+  "abeille": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Abeille.webm"
+  },
+  "acheter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Acheter.webm"
+  },
+  "adolescent": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Adolescent.webm"
+  },
+  "couscous": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Couscous.webm"
+  },
+  "cousin": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cousin.webm"
+  },
+  "croissant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Croissant.webm"
+  },
+  "billard": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Billard.webm"
+  },
+  "amant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Amant.webm"
+  },
+  "anniversaire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Anniversaire.webm"
+  },
+  "boeuf": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Boeuf.webm"
+  },
+  "banane": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Banane.webm"
+  },
+  "ballon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ballon.webm"
+  },
+  "apres-midi": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apr%C3%A8s-midi.webm"
+  },
+  "apercevoir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apercevoir.webm"
+  },
+  "au-bord-de": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Au_bord_de%E2%80%A6.webm"
+  },
+  "ami-e-s": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ami%C2%B7e%C2%B7s.webm"
+  },
+  "aller": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aller.webm"
+  },
+  "argente": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Argent%C3%A9.webm"
+  },
+  "bonne-journee": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonne_journ%C3%A9e.webm"
+  },
+  "apporter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apporter.webm"
+  },
+  "avion": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Avion.webm"
+  },
+  "approcher": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Approcher.webm"
+  },
+  "bonsoir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonsoir.webm"
+  },
+  "bonne-soiree": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bonne_soir%C3%A9e.webm"
+  },
+  "bien": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bien.webm"
+  },
+  "apres": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apr%C3%A8s.webm"
+  },
+  "ami-e": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ami%C2%B7e.webm"
+  },
+  "beacoup": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Beacoup.webm"
+  },
+  "aujourdhui": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aujourd%27hui.webm"
+  },
+  "attendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Attendre.webm"
+  },
+  "aller-chercher": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aller_chercher.webm"
+  },
+  "apprendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Apprendre.webm"
+  },
+  "avant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Avant.webm"
+  },
+  "avec": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Avec.webm"
+  },
+  "arbre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Arbre.webm"
+  },
+  "blond": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Blond.webm"
+  },
+  "adorer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Adorer.webm"
+  },
+  "attention": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Attention.webm"
+  },
+  "bientot": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bient%C3%B4t.webm"
+  },
+  "appeler": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Appeler.webm"
+  },
+  "boire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Boire.webm"
+  },
+  "bleu-marine": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bleu_marine.webm"
+  },
+  "arreter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Arr%C3%AAter.webm"
+  },
+  "aubagne": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aubagne.webm"
+  },
+  "autoroute": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Autoroute.webm"
+  },
+  "bon-appetit": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bon_app%C3%A9tit.webm"
+  },
+  "boiter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Boiter.webm"
+  },
+  "banque": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Banque.webm"
+  },
+  "aix": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Aix.webm"
+  },
+  "amour": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Amour.webm"
+  },
+  "bon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bon.webm"
+  },
+  "bowling": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bowling.webm"
+  },
+  "communiquer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Communiquer.webm"
+  },
+  "casser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Casser.webm"
+  },
+  "chien": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chien.webm"
+  },
+  "bracelet": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bracelet.webm"
+  },
+  "chatain": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ch%C3%A2tain.webm"
+  },
+  "cerf": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cerf.webm"
+  },
+  "comprendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Comprendre.webm"
+  },
+  "chat": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chat.webm"
+  },
+  "bebe": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-B%C3%A9b%C3%A9.webm"
+  },
+  "cinema": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cin%C3%A9ma.webm"
+  },
+  "bus": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bus.webm"
+  },
+  "chocolatine-pain-au-chocolat": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chocolatine_(pain_au_chocolat).webm"
+  },
+  "bretagne": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bretagne.webm"
+  },
+  "comment-dire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Comment_dire_%3F.webm"
+  },
+  "chaud": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chaud.webm"
+  },
+  "collant-vetement": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Collant_(v%C3%AAtement).webm"
+  },
+  "concours": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Concours.webm"
+  },
+  "carotte": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Carotte.webm"
+  },
+  "cirque": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cirque.webm"
+  },
+  "configuration": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Configuration.webm"
+  },
+  "coca": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Coca.webm"
+  },
+  "certificat": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Certificat.webm"
+  },
+  "campagne": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Campagne.webm"
+  },
+  "concentrer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Concentrer.webm"
+  },
+  "capter-des-mots": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Capter_des_mots.webm"
+  },
+  "bureau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Bureau.webm"
+  },
+  "compris": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Compris.webm"
+  },
+  "combien": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Combien.webm"
+  },
+  "cassette": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cassette.webm"
+  },
+  "camion": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Camion.webm"
+  },
+  "cafe": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Caf%C3%A9.webm"
+  },
+  "commencer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Commencer.webm"
+  },
+  "centre-ville": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Centre_ville.webm"
+  },
+  "chaise": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chaise.webm"
+  },
+  "canape": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Canap%C3%A9.webm"
+  },
+  "clair": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Clair.webm"
+  },
+  "conference-pour-les-entendants": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Conf%C3%A9rence_pour_les_entendants.webm"
+  },
+  "chercher": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chercher.webm"
+  },
+  "car": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Car.webm"
+  },
+  "chocolat": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chocolat.webm"
+  },
+  "chercher-les-ennuis": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Chercher_les_ennuis.webm"
+  },
+  "concombre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Concombre.webm"
+  },
+  "canard": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Canard.webm"
+  },
+  "diplome": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dipl%C3%B4me.webm"
+  },
+  "courir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Courir.webm"
+  },
+  "devoir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Devoir.webm"
+  },
+  "detail": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-D%C3%A9tail.webm"
+  },
+  "discuter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Discuter.webm"
+  },
+  "derriere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Derri%C3%A8re.webm"
+  },
+  "escargot": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Escargot.webm"
+  },
+  "demander": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Demander.webm"
+  },
+  "dialoguer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dialoguer.webm"
+  },
+  "croiser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Croiser.webm"
+  },
+  "entree": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Entr%C3%A9e.webm"
+  },
+  "envoyer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Envoyer.webm"
+  },
+  "eau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Eau.webm"
+  },
+  "couleur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Couleur.webm"
+  },
+  "enseigner-apprendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Enseigner,_apprendre.webm"
+  },
+  "donner-rendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Donner,_rendre.webm"
+  },
+  "directeur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Directeur.webm"
+  },
+  "entendant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Entendant.webm"
+  },
+  "conference-pour-les-sourds": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Conf%C3%A9rence_pour_les_sourds.webm"
+  },
+  "esperer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Esp%C3%A9rer.webm"
+  },
+  "derniere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Derni%C3%A8re.webm"
+  },
+  "cours": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cours.webm"
+  },
+  "de-rien": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-De_rien.webm"
+  },
+  "email": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Email.webm"
+  },
+  "dommage": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dommage.webm"
+  },
+  "essayer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Essayer.webm"
+  },
+  "corps": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Corps.webm"
+  },
+  "emplacement": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Emplacement.webm"
+  },
+  "encore": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Encore.webm"
+  },
+  "demain": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Demain.webm"
+  },
+  "dessert": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dessert.webm"
+  },
+  "danser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Danser.webm"
+  },
+  "different": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Diff%C3%A9rent.webm"
+  },
+  "crayon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Crayon.webm"
+  },
+  "dossier": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dossier.webm"
+  },
+  "dormir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dormir.webm"
+  },
+  "conseiller": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Conseiller.webm"
+  },
+  "content": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Content.webm"
+  },
+  "divorcer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Divorcer.webm"
+  },
+  "ensemble": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ensemble.webm"
+  },
+  "dire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dire.webm"
+  },
+  "devant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Devant.webm"
+  },
+  "dore": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Dor%C3%A9.webm"
+  },
+  "cuisine": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Cuisine.webm"
+  },
+  "critiquer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Critiquer.webm"
+  },
+  "fier": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fier.webm"
+  },
+  "faxer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Faxer.webm"
+  },
+  "marcher": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marcher.webm"
+  },
+  "gentil": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gentil.webm"
+  },
+  "fonce": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fonc%C3%A9.webm"
+  },
+  "girafe": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Girafe.webm"
+  },
+  "fromage": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fromage.webm"
+  },
+  "frite": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Frite.webm"
+  },
+  "livre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Livre.webm"
+  },
+  "maintenant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Maintenant.webm"
+  },
+  "femme": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Femme.webm"
+  },
+  "femme-de-menage": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Femme_de_m%C3%A9nage.webm"
+  },
+  "je-suis-daccord": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Je_suis_d%27accord.webm"
+  },
+  "finir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Finir.webm"
+  },
+  "il-y-a-du-vent": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Il_y_a_du_vent.webm"
+  },
+  "fenetre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fen%C3%AAtre.webm"
+  },
+  "ma-mes": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ma,_mes.webm"
+  },
+  "gateau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-G%C3%A2teau.webm"
+  },
+  "je-nai-pas-le-temps": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Je_n%27ai_pas_le_temps.webm"
+  },
+  "grand-parent": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Grand-parent.webm"
+  },
+  "garcon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gar%C3%A7on.webm"
+  },
+  "fete": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-F%C3%AAte.webm"
+  },
+  "important": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Important.webm"
+  },
+  "je-ne-crois-pas": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Je_ne_crois_pas.webm"
+  },
+  "froid": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Froid.webm"
+  },
+  "forme": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Forme.webm"
+  },
+  "film": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Film.webm"
+  },
+  "jai": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-J%27ai.webm"
+  },
+  "feter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-F%C3%AAter.webm"
+  },
+  "fils": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fils.webm"
+  },
+  "fleur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fleur.webm"
+  },
+  "formateur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Formateur.webm"
+  },
+  "francais-langue": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fran%C3%A7ais_(langue).webm"
+  },
+  "lit": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Lit.webm"
+  },
+  "hypnose": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Hypnose.webm"
+  },
+  "fatigue": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fatigu%C3%A9.webm"
+  },
+  "ferme": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ferm%C3%A9.webm"
+  },
+  "fille": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fille.webm"
+  },
+  "fille-la": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fille_(la).webm"
+  },
+  "fruit": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Fruit.webm"
+  },
+  "gare": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gare.webm"
+  },
+  "gap": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Gap.webm"
+  },
+  "foot": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Foot.webm"
+  },
+  "formation": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Formation.webm"
+  },
+  "glisser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Glisser.webm"
+  },
+  "filet": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Filet.webm"
+  },
+  "laid": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Laid.webm"
+  },
+  "mettre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mettre.webm"
+  },
+  "marignane": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marignane.webm"
+  },
+  "montgolfiere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Montgolfi%C3%A8re.webm"
+  },
+  "messe": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Messe.webm"
+  },
+  "mouvement": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mouvement.webm"
+  },
+  "moi": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Moi.webm"
+  },
+  "marseille": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marseille.webm"
+  },
+  "moquer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Moquer.webm"
+  },
+  "oie": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oie.webm"
+  },
+  "nous": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nous.webm"
+  },
+  "mettre-a-la-porte": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mettre_%C3%A0_la_porte.webm"
+  },
+  "non-signe": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Non-sign%C3%A9.webm"
+  },
+  "marron": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Marron.webm"
+  },
+  "oncle": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oncle.webm"
+  },
+  "ours": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ours.webm"
+  },
+  "oumanie": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oumanie_(%3F).webm"
+  },
+  "neveu": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Neveu.webm"
+  },
+  "medecin": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-M%C3%A9decin.webm"
+  },
+  "orientation": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Orientation.webm"
+  },
+  "non-merci": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Non_merci.webm"
+  },
+  "mouton": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mouton.webm"
+  },
+  "mot": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mot.webm"
+  },
+  "objet": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Objet.webm"
+  },
+  "matin": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Matin.webm"
+  },
+  "ouvert": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ouvert.webm"
+  },
+  "or": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Or.webm"
+  },
+  "midi": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Midi.webm"
+  },
+  "pain": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pain.webm"
+  },
+  "orange": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Orange.webm"
+  },
+  "maitresse": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ma%C3%AEtresse.webm"
+  },
+  "offrir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Offrir.webm"
+  },
+  "mer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mer.webm"
+  },
+  "montagne": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Montagne.webm"
+  },
+  "montre-accessoire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Montre_(accessoire).webm"
+  },
+  "mechant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-M%C3%A9chant.webm"
+  },
+  "oublier": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oublier.webm"
+  },
+  "monsieur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Monsieur.webm"
+  },
+  "niece": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ni%C3%A8ce.webm"
+  },
+  "nombreux": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nombreux.webm"
+  },
+  "paella": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Paella.webm"
+  },
+  "nager": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nager.webm"
+  },
+  "moto": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Moto.webm"
+  },
+  "mauvais": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Mauvais.webm"
+  },
+  "nouvelle": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Nouvelle.webm"
+  },
+  "oeuf": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Oeuf.webm"
+  },
+  "pantalon": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pantalon.webm"
+  },
+  "plage": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plage.webm"
+  },
+  "plonger": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plonger.webm"
+  },
+  "pomme-de-terre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pomme_de_terre.webm"
+  },
+  "printemps": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Printemps.webm"
+  },
+  "pique-nique": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pique-nique.webm"
+  },
+  "patin-a-roulettes": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Patin_%C3%A0_roulettes.webm"
+  },
+  "payer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Payer.webm"
+  },
+  "poule": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Poule.webm"
+  },
+  "premiere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Premi%C3%A8re.webm"
+  },
+  "pont": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pont.webm"
+  },
+  "parle": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Parl%C3%A9.webm"
+  },
+  "polonais-langue": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Polonais_(langue).webm"
+  },
+  "pour": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pour.webm"
+  },
+  "pas-content": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pas_content.webm"
+  },
+  "participer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Participer.webm"
+  },
+  "prendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Prendre.webm"
+  },
+  "pleurer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pleurer.webm"
+  },
+  "portable": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Portable.webm"
+  },
+  "planche-a-voile": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Planche_%C3%A0_voile.webm"
+  },
+  "pleuvoir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pleuvoir.webm"
+  },
+  "petits-enfants": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Petits-enfants.webm"
+  },
+  "ping-pong": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ping-pong.webm"
+  },
+  "personne": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Personne.webm"
+  },
+  "pour-rien": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pour_rien.webm"
+  },
+  "poubelle": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Poubelle.webm"
+  },
+  "plusieurs": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plusieurs.webm"
+  },
+  "parent": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Parent.webm"
+  },
+  "pompier": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pompier.webm"
+  },
+  "partir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Partir.webm"
+  },
+  "piscine": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Piscine.webm"
+  },
+  "pareil": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pareil.webm"
+  },
+  "pas-grave": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pas_grave.webm"
+  },
+  "planete": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Plan%C3%A8te.webm"
+  },
+  "palme": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Palme.webm"
+  },
+  "pomme": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pomme.webm"
+  },
+  "parametre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Param%C3%A8tre.webm"
+  },
+  "patin-a-glace": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Patin_%C3%A0_glace.webm"
+  },
+  "paris": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Paris.webm"
+  },
+  "phrase": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Phrase.webm"
+  },
+  "papier": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Papier.webm"
+  },
+  "porte": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Porte.webm"
+  },
+  "petit": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Petit.webm"
+  },
+  "peur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Peur.webm"
+  },
+  "patron": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Patron.webm"
+  },
+  "poisson": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Poisson.webm"
+  },
+  "rat": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rat.webm"
+  },
+  "regarder": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Regarder.webm"
+  },
+  "pret": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%AAt.webm"
+  },
+  "presenter-montrer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9senter,_montrer.webm"
+  },
+  "robe": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Robe.webm"
+  },
+  "pate": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-P%C3%A2te.webm"
+  },
+  "refuser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Refuser.webm"
+  },
+  "promenade": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Promenade.webm"
+  },
+  "president-de-la-republique": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9sident_de_la_r%C3%A9publique.webm"
+  },
+  "pronom": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pronom.webm"
+  },
+  "rouler": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rouler.webm"
+  },
+  "sans-interruption": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sans_interruption.webm"
+  },
+  "rire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rire.webm"
+  },
+  "proteger": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Prot%C3%A9ger.webm"
+  },
+  "reveur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-R%C3%A9veur.webm"
+  },
+  "psychologue": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Psychologue.webm"
+  },
+  "roller": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Roller.webm"
+  },
+  "retard": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Retard.webm"
+  },
+  "sasseoir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-S%27asseoir.webm"
+  },
+  "salle": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Salle.webm"
+  },
+  "se-lever": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_lever.webm"
+  },
+  "rose": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rose.webm"
+  },
+  "restaurant": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Restaurant.webm"
+  },
+  "preter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%AAter.webm"
+  },
+  "sandwich": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sandwich.webm"
+  },
+  "prefere-e": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9f%C3%A9r%C3%A9%C2%B7e.webm"
+  },
+  "saisons-de-lannee": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Saisons_(de_l%27ann%C3%A9e).webm"
+  },
+  "reviser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-R%C3%A9viser.webm"
+  },
+  "rembourser": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rembourser.webm"
+  },
+  "rester": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rester.webm"
+  },
+  "proposer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Proposer.webm"
+  },
+  "sac-a-main": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sac_%C3%A0_main.webm"
+  },
+  "prenom": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9nom.webm"
+  },
+  "sil-vous-plait": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-S%27il_vous_plait.webm"
+  },
+  "repondre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-R%C3%A9pondre.webm"
+  },
+  "sauf": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sauf.webm"
+  },
+  "quoi": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Quoi_%3F.webm"
+  },
+  "preferer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pr%C3%A9f%C3%A9rer.webm"
+  },
+  "rendez-vous": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rendez-vous.webm"
+  },
+  "route-nationale": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Route_nationale.webm"
+  },
+  "rencontrer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rencontrer.webm"
+  },
+  "pullover": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Pullover.webm"
+  },
+  "rouge": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rouge.webm"
+  },
+  "saucisson": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Saucisson.webm"
+  },
+  "roux": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Roux.webm"
+  },
+  "raconter": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Raconter.webm"
+  },
+  "quand": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Quand_%3F.webm"
+  },
+  "riz": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Riz.webm"
+  },
+  "riviere": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Rivi%C3%A8re.webm"
+  },
+  "taille-mesure": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Taille_(mesure).webm"
+  },
+  "suivre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Suivre.webm"
+  },
+  "tous-les-quinze-jours": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tous_les_quinze_jours.webm"
+  },
+  "the": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Th%C3%A9.webm"
+  },
+  "soleil": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soleil.webm"
+  },
+  "sympathique": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sympathique.webm"
+  },
+  "soir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soir.webm"
+  },
+  "toi": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Toi.webm"
+  },
+  "se-reveiller": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_r%C3%A9veiller.webm"
+  },
+  "ski": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ski.webm"
+  },
+  "sucre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sucre.webm"
+  },
+  "super": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Super.webm"
+  },
+  "se-taire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_taire.webm"
+  },
+  "sourire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sourire.webm"
+  },
+  "taureau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Taureau.webm"
+  },
+  "seul-e": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Seul%C2%B7e.webm"
+  },
+  "soucoupe-volante": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soucoupe_volante.webm"
+  },
+  "se-rappeler": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_rappeler.webm"
+  },
+  "souris": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Souris.webm"
+  },
+  "sortie": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sortie.webm"
+  },
+  "tennis": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tennis.webm"
+  },
+  "se-moquer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_moquer.webm"
+  },
+  "terre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Terre.webm"
+  },
+  "short-vetement": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Short_(v%C3%AAtement).webm"
+  },
+  "stage": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Stage.webm"
+  },
+  "sens-direction": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sens_(direction).webm"
+  },
+  "terrible": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Terrible.webm"
+  },
+  "toute-la-nuit": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Toute_la_nuit.webm"
+  },
+  "se-promener": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Se_promener.webm"
+  },
+  "snowboard": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Snowboard.webm"
+  },
+  "souvent": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Souvent.webm"
+  },
+  "sous-marin": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sous-marin.webm"
+  },
+  "serre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Serr%C3%A9.webm"
+  },
+  "tante": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tante.webm"
+  },
+  "tortue-de-terre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tortue_de_terre.webm"
+  },
+  "signaire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Signaire.webm"
+  },
+  "tgv": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-TGV.webm"
+  },
+  "silence": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Silence.webm"
+  },
+  "tartine": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tartine.webm"
+  },
+  "tout-le-monde": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tout_le_monde.webm"
+  },
+  "tortue-de-mer": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tortue_de_mer.webm"
+  },
+  "stagiaire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Stagiaire.webm"
+  },
+  "tomber": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tomber.webm"
+  },
+  "sourd": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Sourd.webm"
+  },
+  "son-sa-ses-leurs": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Son,_sa,_ses,_leurs.webm"
+  },
+  "soeur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soeur.webm"
+  },
+  "tableau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tableau.webm"
+  },
+  "tout": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tout.webm"
+  },
+  "soigner": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Soigner.webm"
+  },
+  "tard": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tard.webm"
+  },
+  "vache": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vache.webm"
+  },
+  "ecrire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89crire.webm"
+  },
+  "week-end": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Week-end.webm"
+  },
+  "veau": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Veau.webm"
+  },
+  "vitrolle": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vitrolle.webm"
+  },
+  "tot": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%B4t.webm"
+  },
+  "village": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Village.webm"
+  },
+  "vetement": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-V%C3%AAtement.webm"
+  },
+  "visuel": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Visuel.webm"
+  },
+  "ville": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Ville.webm"
+  },
+  "vacances": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vacances.webm"
+  },
+  "a-genoux": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_genoux.webm"
+  },
+  "ecole": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89cole.webm"
+  },
+  "etre-contre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%8Atre_contre.webm"
+  },
+  "travailler": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Travailler.webm"
+  },
+  "a-bientot": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_bient%C3%B4t.webm"
+  },
+  "voler": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Voler.webm"
+  },
+  "verre-de-terre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Verre_de_terre.webm"
+  },
+  "train": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Train.webm"
+  },
+  "educateur": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89ducateur.webm"
+  },
+  "telephone": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%A9l%C3%A9phone.webm"
+  },
+  "a-peu-pres": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_peu_pr%C3%A8s.webm"
+  },
+  "vent": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vent.webm"
+  },
+  "vocabulaire": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vocabulaire.webm"
+  },
+  "a-tout-a-lheure": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%80_tout_%C3%A0_l%27heure.webm"
+  },
+  "ete": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89t%C3%A9.webm"
+  },
+  "telephoner": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%A9l%C3%A9phoner.webm"
+  },
+  "violet": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Violet.webm"
+  },
+  "triste": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Triste.webm"
+  },
+  "etonner": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89tonner.webm"
+  },
+  "usine": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Usine.webm"
+  },
+  "vendre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vendre.webm"
+  },
+  "tremblement-de-terre": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Tremblement_de_terre.webm"
+  },
+  "vert": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vert.webm"
+  },
+  "television": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-T%C3%A9l%C3%A9vision.webm"
+  },
+  "eleve": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%89l%C3%A8ve.webm"
+  },
+  "venir": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Venir.webm"
+  },
+  "vieu": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Vieu.webm"
+  },
+  "ca-va": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-%C3%87a_va.webm"
+  },
+  "zoo": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Zoo.webm"
+  },
+  "verbe-directionnel": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LL-Q33302_(fsl)-Laura_Jauvert-Verbe_directionnel.webm"
+  },
+  "maman": {
+    "author": "Original video: Jauvert LauraVideo editing: Edouard-lopez",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maman.webm"
+  }
+}
