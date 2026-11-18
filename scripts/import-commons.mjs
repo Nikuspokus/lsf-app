@@ -11,7 +11,7 @@ import { execFileSync } from 'node:child_process'
 import { mkdirSync, writeFileSync, readFileSync, existsSync, rmSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { join } from 'node:path'
-import { isAllowedLicense, matchScore, stripHtml } from './commons-lib.mjs'
+import { isAllowedLicense, matchScore, senseRank, stripHtml } from './commons-lib.mjs'
 
 const args = process.argv.slice(2)
 const download = args.includes('--download')
@@ -72,8 +72,11 @@ for (const page of pages) {
   for (const id of signIds) {
     const score = matchScore(page.title, id)
     if (score === 2 || (loose && score === 1)) {
+      const rank = senseRank(page.title)
       const best = candidates.get(id)
-      if (!best || score > best.score) candidates.set(id, { score, page, info, meta })
+      if (!best || score > best.score || (score === best.score && rank < best.rank)) {
+        candidates.set(id, { score, rank, page, info, meta })
+      }
     }
   }
 }
