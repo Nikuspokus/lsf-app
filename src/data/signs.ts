@@ -5,7 +5,6 @@ export const categories: Category[] = [
   { id: 'famille', label: 'Famille', emoji: '👨‍👩‍👧' },
   { id: 'couleurs', label: 'Couleurs', emoji: '🎨' },
   { id: 'questions', label: 'Questions', emoji: '❓' },
-  { id: 'nombres', label: 'Nombres', emoji: '🔢' },
 ]
 
 const s = (category: string, id: string, word: string, hint?: string): Sign => ({ id, word, category, hint })
@@ -20,8 +19,10 @@ export const signs: Sign[] = [
   s('salutations', 'oui', 'Oui'),
   s('salutations', 'non', 'Non'),
 
-  s('famille', 'mere', 'Mère'),
-  s('famille', 'pere', 'Père'),
+  s('famille', 'maman', 'Maman'),
+  s('famille', 'papa', 'Papa'),
+  s('famille', 'grand-mere', 'Grand-mère'),
+  s('famille', 'grand-pere', 'Grand-père'),
   s('famille', 'frere', 'Frère'),
   s('famille', 'soeur', 'Sœur'),
   s('famille', 'enfant', 'Enfant'),
@@ -41,9 +42,4 @@ export const signs: Sign[] = [
   s('questions', 'pourquoi', 'Pourquoi'),
   s('questions', 'comment', 'Comment'),
 
-  s('nombres', 'un', '1'),
-  s('nombres', 'deux', '2'),
-  s('nombres', 'trois', '3'),
-  s('nombres', 'quatre', '4'),
-  s('nombres', 'cinq', '5'),
 ]
