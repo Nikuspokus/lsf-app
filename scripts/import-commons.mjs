@@ -120,20 +120,49 @@ const credits = existsSync(creditsFile) ? JSON.parse(readFileSync(creditsFile, '
 const tmp = join(tmpdir(), 'lsf-import')
 mkdirSync(tmp, { recursive: true })
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
+const PAUSE_MS = 300
+const MAX_ATTEMPTS = 5
+
+/** Télécharge avec nouvelles tentatives (Wikimedia limite le débit : HTTP 429). */
+async function fetchWithRetry(url) {
+  for (let attempt = 1; ; attempt++) {
+    try {
+      const res = await fetch(url, { headers: HEADERS })
+      if (res.ok) return Buffer.from(await res.arrayBuffer())
+      if (attempt >= MAX_ATTEMPTS || (res.status < 500 && res.status !== 429)) throw new Error(`HTTP ${res.status}`)
+      const wait = Number(res.headers.get('retry-after')) || 2 ** attempt
+      await sleep(wait * 1000)
+    } catch (error) {
+      if (attempt >= MAX_ATTEMPTS) throw error
+      await sleep(2 ** attempt * 1000)
+    }
+  }
+}
+
+function writeGenerated() {
+  // la liste des mots reflète ce qui est réellement présent (mp4 + crédit)
+  const kept = extras.filter((e) => credits[e.id] && existsSync(new URL(`${e.id}.mp4`, mediaDir)))
+  writeFileSync(generatedFile, JSON.stringify(kept, null, 2) + '\n')
+  return kept.length
+}
+
+const failed = []
 let done = 0
+let skipped = 0
+const total = candidates.size
 for (const [id, { info, meta }] of candidates) {
-  const out = new URL(`${id}.mp4`, mediaDir).pathname
+  const out = new URL(`${id}.mp4`, mediaDir)
+  if (credits[id] && existsSync(out)) { skipped++; continue } // reprise : déjà importé
   const raw = join(tmp, 'current.src')
   try {
-    const res = await fetch(info.url, { headers: HEADERS })
-    if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    writeFileSync(raw, Buffer.from(await res.arrayBuffer()))
+    writeFileSync(raw, await fetchWithRetry(info.url))
     // mp4 H.264 sans son, 480 px de haut max, compatible iOS
     execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', raw, '-an', '-vf', 'scale=-2:480',
-      '-c:v', 'libx264', '-crf', '28', '-pix_fmt', 'yuv420p', '-movflags', '+faststart', out])
+      '-c:v', 'libx264', '-crf', '28', '-pix_fmt', 'yuv420p', '-movflags', '+faststart', out.pathname])
   } catch (error) {
     console.warn(`! ${id}: ${error.message}`)
-    candidates.delete(id)
+    failed.push(id)
     continue
   } finally {
     rmSync(raw, { force: true })
@@ -144,13 +173,17 @@ for (const [id, { info, meta }] of candidates) {
     licenseUrl: meta.LicenseUrl?.value ?? '',
     source: info.descriptionurl ?? '',
   }
-  console.log(`↓ ${++done}/${candidates.size} ${id}`)
+  done++
+  console.log(`↓ ${done + skipped}/${total} ${id}`)
+  if (done % 10 === 0) { // sauvegarde régulière : on peut interrompre sans tout perdre
+    writeFileSync(creditsFile, JSON.stringify(credits, null, 2) + '\n')
+    if (all) writeGenerated()
+  }
+  await sleep(PAUSE_MS)
 }
 
 writeFileSync(creditsFile, JSON.stringify(credits, null, 2) + '\n')
-if (all) {
-  const kept = extras.filter((e) => candidates.has(e.id))
-  writeFileSync(generatedFile, JSON.stringify(kept, null, 2) + '\n')
-  console.log(`${kept.length} mot(s) écrit(s) dans src/data/signs.generated.json`)
-}
-console.log('\nTerminé. Relance « npm run dev » pour vérifier, puis commit/push public/media, src/data/credits.json et signs.generated.json.')
+if (all) console.log(`\n${writeGenerated()} mot(s) de vocabulaire dans src/data/signs.generated.json`)
+console.log(`\n${done} téléchargé(s), ${skipped} déjà présent(s), ${failed.length} échec(s).`)
+if (failed.length) console.log(`Échecs : ${failed.join(', ')}\n→ relance la même commande : seuls les manquants seront retéléchargés.`)
+else console.log('Terminé. Relance « npm run dev » pour vérifier, puis commit/push public/media, src/data/credits.json et signs.generated.json.')
